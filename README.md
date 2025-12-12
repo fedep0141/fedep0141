@@ -1,4 +1,4 @@
-Hi, I’m @fedep0141, a 20 Italian student. I'm really into software developing and I made some projects like a functional ERP.
+Hi, I’m @fedep0141, a 20 Italian developer. I'm really into software developing and I made some projects like a functional ERP.
 🔮Of course I'm here to share my knowledge but most importantly to learn how to be a better developer.
 If you want any help or maybe a collaboration don't hesitate to contact me at my email. 📧
 
